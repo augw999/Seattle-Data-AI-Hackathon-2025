@@ -1,0 +1,19 @@
+{
+    "agent": {
+        "x": 65,
+        "y": 43,
+        "remaining_life": 100
+    },
+    "victim": {
+        "x": 24,
+        "y": 22,
+        "remaining_life": 100
+    },
+    "priority": null,
+    "target": [
+        24,
+        22
+    ],
+    "score": 100,
+    "route": null
+}
